@@ -12,15 +12,15 @@ white hit zero exactly.
   <tr>
     <td>Tabular information</td>
     <tr>5</td>
-  <tr>
+  </tr>
   <tr>
     <td>T</td>
     <tr>6</td>
-  <tr>
+  </tr>
   <tr>
     <td>last line</td>
     <tr>9</td>
-  <tr>
+  </tr>
 </table>
 
 
